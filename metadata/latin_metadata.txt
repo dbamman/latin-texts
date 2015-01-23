@@ -1,3 +1,4 @@
+identifier	date of composition	date of publication	creator	title
 1762novumorganum00baco	1620	1762	Tosi, Andreas	Novum organum scientiarum
 1885denovahieros00sweduoft	1758	1885	Swedenborg, Emanuel, 1688-1772	De Nova Hierosolyma et ejus doctrina caelesti ex auditis e caelo quibus praemittitur aliquid de Novo caelo et nova terra.
 1887proacluentioo00cice	-106:-43	1887	Fausset, William Yorke	Pro A. Cluentio oratio; with explanatory and critical notes by W. Yorke Fausset
