@@ -9964,7 +9964,6 @@ analysisoperums03schrgoog		1793				https://archive.org/details//analysisoperums0
 analysisoperums04schrgoog		1785				https://archive.org/details//analysisoperums04schrgoog	
 analysisoperums07schrgoog		1788				https://archive.org/details//analysisoperums07schrgoog	
 duconcileprovin00bouigoog		1850				https://archive.org/details//duconcileprovin00bouigoog	
-donaae0001arsmin						https://archive.org/details//donaae0001arsmin	
 dieurkundenpippi00dopsuoft		1906				https://archive.org/details//dieurkundenpippi00dopsuoft	
 beulahortwoando00dudlgoog		1888				https://archive.org/details//beulahortwoando00dudlgoog	
 historischesynt04draegoog		1878				https://archive.org/details//historischesynt04draegoog	
@@ -9997,15 +9996,11 @@ leonisgrammatic00gramgoog		1842				https://archive.org/details//leonisgrammatic0
 carminaepoetisc00clgoog		1854				https://archive.org/details//carminaepoetisc00clgoog	
 basiliifabrisora00fabe						https://archive.org/details//basiliifabrisora00fabe	
 thesauruseruditi01fabe						https://archive.org/details//thesauruseruditi01fabe	
-entomologiasyste00fabr		1792				https://archive.org/details//entomologiasyste00fabr	
-syncretisminwest00farmuoft		1998				https://archive.org/details//syncretisminwest00farmuoft	
 ferdinandihandi00handgoog		1845				https://archive.org/details//ferdinandihandi00handgoog	
 devitasophoclis00schugoog		1836				https://archive.org/details//devitasophoclis00schugoog	
-marsilioficinoph00ficiuoft		2000				https://archive.org/details//marsilioficinoph00ficiuoft	
 opera02richgoog		1827				https://archive.org/details//opera02richgoog	
 epitomareimilit01renagoog		1869				https://archive.org/details//epitomareimilit01renagoog	
 totiuslatinitat00forcgoog		1828				https://archive.org/details//totiuslatinitat00forcgoog	
-travelabroadfrul00forouoft		2003				https://archive.org/details//travelabroadfrul00forouoft	
 historiaptolemo00conggoog		1701				https://archive.org/details//historiaptolemo00conggoog	
 miscellaneamaxi00seebgoog		1822				https://archive.org/details//miscellaneamaxi00seebgoog	
 MN42046ucmf_8		1898				https://archive.org/details//MN42046ucmf_8	
@@ -10046,7 +10041,6 @@ epigrammatagrae01kaibgoog		1878				https://archive.org/details//epigrammatagrae0
 catechesisracov00oedegoog		1739				https://archive.org/details//catechesisracov00oedegoog	
 mfabiiquintilia12quingoog		1874				https://archive.org/details//mfabiiquintilia12quingoog	
 annalestypograp00maitgoog		1793				https://archive.org/details//annalestypograp00maitgoog	
-deservisapudpla00chalgoog		1875				https://archive.org/details//deservisapudpla00chalgoog	
 histoirenaturel76buffgoog		1806				https://archive.org/details//histoirenaturel76buffgoog	
 georgiipachymer00pousgoog		1835				https://archive.org/details//georgiipachymer00pousgoog	
 epistolaephiero01nadagoog		1902				https://archive.org/details//epistolaephiero01nadagoog	
@@ -10064,7 +10058,6 @@ grammaticilatin00hagagoog		1870				https://archive.org/details//grammaticilatin0
 dexenophontisan00kewegoog		1908				https://archive.org/details//dexenophontisan00kewegoog	
 bucolicorumgrae00theogoog		1855				https://archive.org/details//bucolicorumgrae00theogoog	
 anthologiaveter00burmgoog		1833				https://archive.org/details//anthologiaveter00burmgoog	
-test_illi_mflm_009		1807				https://archive.org/details//test_illi_mflm_009	
 inventariumdiplo02hempuoft		1785				https://archive.org/details//inventariumdiplo02hempuoft	
 inventariumdiplo01hempuoft		1785				https://archive.org/details//inventariumdiplo01hempuoft	
 librorumimpress02bookgoog		1816				https://archive.org/details//librorumimpress02bookgoog	
@@ -10218,9 +10211,7 @@ virorumceleberr01bousgoog		1745				https://archive.org/details//virorumceleberr0
 MN41651ucmf_0		1831				https://archive.org/details//MN41651ucmf_0	
 chronographia01eustgoog		1842				https://archive.org/details//chronographia01eustgoog	
 dehistoriastirp00specgoog		1542				https://archive.org/details//dehistoriastirp00specgoog	
-carolilinnsysts02linn		1772				https://archive.org/details//carolilinnsysts02linn	
 carolilinnaeiopee00linn		1840				https://archive.org/details//carolilinnaeiopee00linn	
-3.18E+13		1753				https://archive.org/details//3.18E+13	
 museumsaeraemti00schogoog		1764				https://archive.org/details//museumsaeraemti00schogoog	
 historiarumetse03livygoog		1829				https://archive.org/details//historiarumetse03livygoog	
 aburbeconditali09livygoog		1873				https://archive.org/details//aburbeconditali09livygoog	
