@@ -213,7 +213,7 @@ identifier	date of composition	date of publication	creator	title
 4737416	1835	1835	Zimmermann, G. F	De necessitate qua judices coacti fuerint capitis damnare Socratem [microform]
 4737417	1826	1826	Zehlicke, Joh	De aliquot Antigonae locis [microform]
 4737418	1746	1746	Parreidt, Johann Heinrich	De lactea Livii vbertate [microform]
-4737419	1743	[MDCCXLIII]	Joecher, Christian Gottlieb, 1694-1758	De suspecta Livii fide [microform] : Praeside D. Christ. Gottl. Ioechero ... in Academia Lipsiensi A.R.S. MDCCXLIII. die XVI. Februarii
+4737419	1743	1743	Joecher, Christian Gottlieb, 1694-1758	De suspecta Livii fide [microform] : Praeside D. Christ. Gottl. Ioechero ... in Academia Lipsiensi A.R.S. MDCCXLIII. die XVI. Februarii
 4737424	1869	1869	Niemeyer, Konrad, 1828-	De locis quibusdam qui in Ciceronis De oratore libris leguntur, disputatio [microform]
 4737425	1908	1908	Papla, Alois	Quaestiones Terentianae [microform]
 4737799	1909	1909	Zilken, Franz, 1882-	De inscriptionibus latinis graecis bilinguibus quaestiones selectae [microform]
